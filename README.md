@@ -1,2 +1,2 @@
-# Visitari Version : 1.0
-Code : ﹄1﹃
+# Visitari 
+Version : 1.0 | Code : ﹄1﹃
